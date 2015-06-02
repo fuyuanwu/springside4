@@ -10,7 +10,7 @@ import org.springframework.http.HttpStatus;
 /**
  * 专用于Restful Service的异常.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class RestException extends RuntimeException {
 

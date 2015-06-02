@@ -39,7 +39,7 @@ import com.google.common.collect.Lists;
  * 3. 验证JSON与XML两种编码
  * 4. 验证与Shiro结合的HttpBasic验证
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class UserRestFT extends BaseFunctionalTestCase {
 

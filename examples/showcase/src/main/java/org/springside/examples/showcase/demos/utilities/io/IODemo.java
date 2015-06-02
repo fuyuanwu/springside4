@@ -25,7 +25,7 @@ import com.google.common.base.Charsets;
 /**
  * 演示各种IO操作.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class IODemo {
 

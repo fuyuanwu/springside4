@@ -33,7 +33,7 @@ import org.springside.modules.web.Servlets;
  * static-content?contentPath=static/images/logo.jpg
  * static-content?contentPath=static/images/logo.jpg&download=true
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class StaticContentServlet extends HttpServlet {
 

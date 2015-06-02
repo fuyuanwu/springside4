@@ -13,7 +13,7 @@ import org.junit.runner.Description;
  * 
  * 在出错时将屏幕保存为png格式的文件，默认路径为项目的target/screensnapshot/测试类名_测试方法名.png
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class SeleniumSnapshotRule extends TestWatcher {
 

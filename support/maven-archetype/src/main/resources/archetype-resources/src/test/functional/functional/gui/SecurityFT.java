@@ -17,7 +17,7 @@ import ${package}.functional.BaseSeleniumTestCase;
 /**
  * 系统安全控制的功能测试, 测试主要用户故事.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class SecurityFT extends BaseSeleniumTestCase {
 

@@ -19,7 +19,7 @@ import com.netflix.hystrix.exception.HystrixBadRequestException;
  * HystrixCommand的实现类, 将访问远程资源的逻辑封装在T run()函数内.
  * 如需对异常, 超时, 短路等进行自行处理，返回默认值则实现T getFallback()函数.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class GetUserCommand extends HystrixCommand<UserDTO> {
 

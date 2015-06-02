@@ -20,7 +20,7 @@ import org.springside.modules.test.benchmark.ConcurrentBenchmark;
  * 
  * 可用系统参数重置测试规模，@see RedisCounterBenchmark
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class JobProducerDemo extends ConcurrentBenchmark {
 	private static final int DEFAULT_THREAD_COUNT = 5;

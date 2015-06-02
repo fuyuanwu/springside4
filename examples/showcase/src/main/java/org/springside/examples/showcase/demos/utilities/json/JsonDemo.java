@@ -52,7 +52,7 @@ import com.google.common.collect.Maps;
 /**
  * 演示Jackson的基本使用方式及大量的特殊Feature.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class JsonDemo {
 

@@ -13,7 +13,7 @@ import org.springside.modules.metrics.utils.Clock;
  * Counter类型, 主要用于计算TPS，
  * 报告Report间隔时间内的Counter变化值及平均TPS，以及服务从启动到现在的Counter总值和平均TPS.
  * 
- * @author Calvin
+ * @author fuyuanwu
  */
 public class Counter {
 	public static Clock clock = Clock.DEFAULT;

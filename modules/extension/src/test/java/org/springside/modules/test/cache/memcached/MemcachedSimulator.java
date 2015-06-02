@@ -22,7 +22,7 @@ import com.thimbleware.jmemcached.storage.hash.ConcurrentLinkedHashMap;
 /**
  * JMemcached的封装, 主要用于功能测试.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class MemcachedSimulator implements InitializingBean, DisposableBean {
 

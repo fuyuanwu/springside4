@@ -37,7 +37,7 @@ import org.springside.modules.web.Servlets;
  * 	</filter-mapping>
  * </pre>
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class CacheControlHeaderFilter implements Filter {
 

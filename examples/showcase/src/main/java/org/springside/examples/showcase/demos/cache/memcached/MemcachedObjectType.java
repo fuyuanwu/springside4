@@ -10,7 +10,7 @@ package org.springside.examples.showcase.demos.cache.memcached;
  * 
  * @see org.springside.examples.showcase.service.AccountService#getInitializedUser(String)
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public enum MemcachedObjectType {
 	USER("user:", 60 * 60 * 1);

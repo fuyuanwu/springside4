@@ -20,7 +20,7 @@ import org.springframework.web.servlet.tags.form.TagWriter;
 /**
  * 重载实现Twitter Bootstrap的格式.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public abstract class BSAbstractMultiCheckedElementTag extends AbstractMultiCheckedElementTag {
 

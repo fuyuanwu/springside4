@@ -35,7 +35,7 @@ import com.google.common.collect.Maps;
 /**
  * 用户管理业务类.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 // Spring Service Bean的标识.
 @Component

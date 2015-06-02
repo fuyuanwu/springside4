@@ -27,7 +27,7 @@ import org.springside.modules.utils.Clock.MockClock;
 /**
  * AccountService的测试用例, 测试Service层的业务逻辑.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class AccountServiceTest {
 

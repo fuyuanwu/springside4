@@ -21,7 +21,7 @@ import org.springside.examples.showcase.webservice.soap.response.dto.UserDTO;
  * 使用WSResult及其子类类包裹返回结果.
  * 使用DTO传输对象隔绝系统内部领域对象的修改对外系统的影响.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 // name 指明wsdl中<wsdl:portType>元素的名称
 @WebService(name = "AccountService", targetNamespace = WsConstants.NS)

@@ -20,7 +20,7 @@ import java.util.concurrent.atomic.AtomicLong;
  * 
  * 用户可以用benchmark.thread.count 与 benchmark.loop.count 重新定义并发线程数与循环次数。
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public abstract class ConcurrentBenchmark {
 

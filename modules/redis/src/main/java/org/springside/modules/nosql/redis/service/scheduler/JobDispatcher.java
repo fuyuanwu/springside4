@@ -25,7 +25,7 @@ import com.google.common.collect.Lists;
  * 定时从scheduled job sorted set中取出到期的任务放入ready job list，并在高可靠模式下，将lock job 中 已超时的任务重新放入 ready job.
  * 线程池可自行创建，也可以从外部传入共用。
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class JobDispatcher implements Runnable {
 	public static final String DEFAULT_DISPATCH_LUA_FILE = "classpath:/redis/dispatch.lua";

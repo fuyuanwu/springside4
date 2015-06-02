@@ -15,7 +15,7 @@ import org.springframework.test.context.junit4.AbstractJUnit4SpringContextTests;
  * 
  * @ContextConfiguration(locations = { "/applicationContext-test.xml" })
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @ActiveProfiles(Profiles.UNIT_TEST)
 public abstract class SpringContextTestCase extends AbstractJUnit4SpringContextTests {

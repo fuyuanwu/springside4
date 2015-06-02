@@ -19,7 +19,7 @@ import org.springframework.test.context.junit4.AbstractTransactionalJUnit4Spring
  * 
  * @ContextConfiguration(locations = { "/applicationContext.xml" })
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @ActiveProfiles(Profiles.UNIT_TEST)
 public abstract class SpringTransactionalTestCase extends AbstractTransactionalJUnit4SpringContextTests {

@@ -18,7 +18,7 @@ import org.springside.modules.nosql.redis.service.scheduler.JobStatistics;
 /**
  * 运行JobDispatcher，每秒将Job从"job:ss:scheduled" sorted set 发布到"job:ss:ready" list.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class SimpleJobDispatcherDemo {
 

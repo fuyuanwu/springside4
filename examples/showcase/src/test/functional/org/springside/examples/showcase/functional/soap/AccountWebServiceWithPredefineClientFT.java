@@ -34,7 +34,7 @@ import org.springside.modules.test.category.Smoke;
  * 
  * 集中在User相关接口.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @TestExecutionListeners({ DependencyInjectionTestExecutionListener.class })

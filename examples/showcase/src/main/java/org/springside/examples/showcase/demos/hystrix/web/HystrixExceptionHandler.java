@@ -23,7 +23,7 @@ import com.netflix.hystrix.exception.HystrixRuntimeException.FailureType;
 /**
  * 自定义ExceptionHandler，专门处理Hystrix异常.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @ControllerAdvice
 public class HystrixExceptionHandler extends ResponseEntityExceptionHandler {

@@ -24,7 +24,7 @@ import org.springside.examples.quickstart.service.account.AccountService;
 /**
  * 管理员管理用户的Controller.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Controller
 @RequestMapping(value = "/admin/user")

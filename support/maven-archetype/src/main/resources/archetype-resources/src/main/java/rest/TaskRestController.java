@@ -34,7 +34,7 @@ import org.springside.modules.web.MediaTypes;
 /**
  * Task的Restful API的Controller.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @RestController
 @RequestMapping(value = "/api/v1/task")

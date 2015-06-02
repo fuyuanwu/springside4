@@ -31,7 +31,7 @@ import com.google.common.collect.Lists;
 /**
  * 用户.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Entity
 @Table(name = "ss_user")

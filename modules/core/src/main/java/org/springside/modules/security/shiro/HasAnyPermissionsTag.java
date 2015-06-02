@@ -11,7 +11,7 @@ import org.apache.shiro.web.tags.PermissionTag;
 /**
  * 不知为何Shiro一直不提供HasAnyPermissions的Tag.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class HasAnyPermissionsTag extends PermissionTag {
 

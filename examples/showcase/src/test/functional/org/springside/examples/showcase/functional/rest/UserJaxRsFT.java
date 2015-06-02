@@ -16,7 +16,7 @@ import org.springside.examples.showcase.webservice.rest.UserDTO;
 /**
  * 对基于JAX-RS的实现Restful的测试
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class UserJaxRsFT extends BaseFunctionalTestCase {
 

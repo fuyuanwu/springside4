@@ -17,7 +17,7 @@ import org.springside.modules.mapper.JsonMapper;
  * 
  * 日期,实体类型,操作类型 ,操作用户,json格式的扩展字段
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Component
 public class BusinessLogger {

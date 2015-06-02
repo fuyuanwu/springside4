@@ -22,7 +22,7 @@ import redis.clients.jedis.Jedis;
  * 
  * 可用系统参数重置变量改变测试规模与连接参数， @see RedisCounterBenchmark
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class RedisSessionBenchmark extends ConcurrentBenchmark {
 	private static final int DEFAULT_THREAD_COUNT = 20;

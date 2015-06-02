@@ -21,7 +21,7 @@ import com.google.common.collect.Maps;
 /**
  * 演示 Guava的比Apache StringUtils更高级的Joiner和Spliter，Case Format转换
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class GuavaStringUtilsDemo {
 

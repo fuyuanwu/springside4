@@ -27,7 +27,7 @@ import org.springside.modules.web.MediaTypes;
 /**
  * 自定义ExceptionHandler，专门处理Restful异常.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 // 会被Spring-MVC自动扫描，但又不属于Controller的annotation。
 @ControllerAdvice

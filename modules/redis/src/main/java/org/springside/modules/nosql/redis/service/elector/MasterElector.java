@@ -34,7 +34,7 @@ import redis.clients.jedis.Jedis;
  * 
  * 在最差情况下，可能有两倍的intervalSecs内集群内没有Master。
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class MasterElector implements Runnable {
 

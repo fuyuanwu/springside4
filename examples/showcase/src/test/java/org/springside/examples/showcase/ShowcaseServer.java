@@ -12,7 +12,7 @@ import org.springside.modules.test.spring.Profiles;
 /**
  * 使用Jetty运行调试Web应用, 在Console快速重载应用.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class ShowcaseServer {
 

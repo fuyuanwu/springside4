@@ -20,7 +20,7 @@ import org.springside.modules.utils.Threads;
  * 
  * 可用系统参数-Dthread.count 改变线程数.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class AdvancedJobConsumerSinglePopDemo extends SimpleJobConsumerDemo {
 

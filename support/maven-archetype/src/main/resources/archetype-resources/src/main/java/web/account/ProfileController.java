@@ -25,7 +25,7 @@ import ${package}.service.account.ShiroDbRealm.ShiroUser;
 /**
  * 用户修改自己资料的Controller.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Controller
 @RequestMapping(value = "/profile")

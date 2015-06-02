@@ -14,7 +14,7 @@ import org.springside.examples.showcase.service.AccountService;
 /**
  * 被Spring各种Scheduler反射调用的Service POJO.
  * 
- * @author Calvin
+ * @author fuyuanwu
  */
 @Component
 public class UserCountScanner {

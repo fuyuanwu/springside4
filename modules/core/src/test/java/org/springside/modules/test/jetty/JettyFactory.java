@@ -19,7 +19,7 @@ import com.google.common.collect.Lists;
 /**
  * 创建Jetty Server的工厂类.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class JettyFactory {
 

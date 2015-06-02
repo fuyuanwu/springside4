@@ -21,7 +21,7 @@ import com.fasterxml.jackson.databind.util.JSONPObject;
  * 输出JsonP格式的Mashup 服务端, 支持被跨域调用.
  * 有两种方式，一是自行用mapper的toJsonP()函数，一种是返回JSONPObject对象.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Controller
 public class MashupServerController {

@@ -23,7 +23,7 @@ import org.springside.modules.metrics.TimerMetric;
 /**
  * 使用Slf4j将Metrics打印到日志，默认logger name是"metrics"，可在构造函数中设定。
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class Slf4jReporter implements Reporter {
 	private Logger reportLogger;

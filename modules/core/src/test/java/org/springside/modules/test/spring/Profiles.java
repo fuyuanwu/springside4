@@ -8,7 +8,7 @@ package org.springside.modules.test.spring;
 /**
  * Spring profile 常用方法与profile名称。
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class Profiles {
 

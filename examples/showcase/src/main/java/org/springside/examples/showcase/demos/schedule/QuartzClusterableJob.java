@@ -21,7 +21,7 @@ import org.springside.examples.showcase.service.AccountService;
  * 因为需要被持久化, 不能有用XXService等不能被持久化的成员变量,
  * 只能在每次调度时从QuartzJobBean注入的applicationContext中动态取出.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class QuartzClusterableJob extends QuartzJobBean {
 

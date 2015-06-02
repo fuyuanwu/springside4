@@ -14,7 +14,7 @@ import java.util.List;
  * Histogram数据类型, 主要用于计算Latency.
  * 报告Report间隔时间内s数值的最小/最大，平均值，以及某些百分比的请求数小于的值。
  * 
- * @author Calvin
+ * @author fuyuanwu
  */
 public class Histogram {
 

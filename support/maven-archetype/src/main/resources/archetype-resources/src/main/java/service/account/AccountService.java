@@ -29,7 +29,7 @@ import org.springside.modules.utils.Encodes;
 /**
  * 用户管理类.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 // Spring Service Bean的标识.
 @Component

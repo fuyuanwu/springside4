@@ -25,7 +25,7 @@ import org.springside.modules.metrics.Timer;
 /**
  * Reporter线程.由用户负责初始化reporter及管理起停。
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class ReportScheduler {
 	private static final String SCHEDULER_NAME = "metrics-reporter";

@@ -19,7 +19,7 @@ import com.google.common.collect.Lists;
  * 
  * Apache的StringUtils已提供绝大多数String函数的Null Safe版本, 没有一一演示.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class ApacheStringUtilsDemo {
 

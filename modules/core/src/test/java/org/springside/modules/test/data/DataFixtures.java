@@ -19,7 +19,7 @@ import org.springframework.jdbc.datasource.init.ScriptUtils;
 /**
  * SQL数据文件导入工具类。
  * 
- * @author Calvin
+ * @author fuyuanwu
  */
 public class DataFixtures {
 

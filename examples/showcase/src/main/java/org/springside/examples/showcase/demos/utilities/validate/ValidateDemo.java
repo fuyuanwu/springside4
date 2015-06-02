@@ -17,7 +17,7 @@ import com.google.common.collect.Lists;
 /**
  * 演示用Apache Commons3的Validate，在代码中进行防御性校验.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class ValidateDemo {
 

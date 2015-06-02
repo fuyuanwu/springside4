@@ -11,7 +11,7 @@ import org.springside.modules.nosql.redis.pool.JedisPool;
 /**
  * 支持对当前任务池情况的状态数据查询.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class JobStatistics {
 

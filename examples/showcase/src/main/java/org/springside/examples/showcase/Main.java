@@ -15,7 +15,7 @@ import org.eclipse.jetty.webapp.WebAppContext;
 /**
  * Main Class for standalone running.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class Main {
 

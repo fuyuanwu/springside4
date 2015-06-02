@@ -25,7 +25,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 /**
  * 融合了Selenium 1.0 API与Selenium 2.0的By选择器的API.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class Selenium2 {
 

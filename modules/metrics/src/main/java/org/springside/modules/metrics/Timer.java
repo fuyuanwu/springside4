@@ -28,7 +28,7 @@ import org.springside.modules.metrics.utils.Clock;
  * </pre>
  * 
  * 
- * @author Calvin
+ * @author fuyuanwu
  */
 public class Timer {
 

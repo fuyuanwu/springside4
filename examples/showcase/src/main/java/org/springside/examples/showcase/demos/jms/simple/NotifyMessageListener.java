@@ -19,7 +19,7 @@ import org.springside.examples.showcase.demos.utilities.email.SimpleMailService;
  * 
  * 使用Spring的MessageListenerContainer侦听消息并调用本Listener进行处理.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class NotifyMessageListener implements MessageListener {
 

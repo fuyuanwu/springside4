@@ -32,14 +32,11 @@ import com.google.common.collect.Maps;
 /**
  * Task管理的Controller, 使用Restful风格的Urls:
  * 
- * List page : GET /task/
- * Create page : GET /task/create
- * Create action : POST /task/create
- * Update page : GET /task/update/{id}
- * Update action : POST /task/update
- * Delete action : GET /task/delete/{id}
+ * List page : GET /task/ Create page : GET /task/create Create action : POST
+ * /task/create Update page : GET /task/update/{id} Update action : POST
+ * /task/update Delete action : GET /task/delete/{id}
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Controller
 @RequestMapping(value = "/task")
@@ -88,7 +85,7 @@ public class TaskController {
 		newTask.setUser(user);
 
 		taskService.saveTask(newTask);
-		redirectAttributes.addFlashAttribute("message", "创建任务成功");
+		redirectAttributes.addAttribute("message", "创建任务成功");
 		return "redirect:/task/";
 	}
 
@@ -114,7 +111,8 @@ public class TaskController {
 	}
 
 	/**
-	 * 所有RequestMapping方法调用前的Model准备方法, 实现Struts2 Preparable二次部分绑定的效果,先根据form的id从数据库查出Task对象,再把Form提交的内容绑定到该对象上。
+	 * 所有RequestMapping方法调用前的Model准备方法, 实现Struts2
+	 * Preparable二次部分绑定的效果,先根据form的id从数据库查出Task对象,再把Form提交的内容绑定到该对象上。
 	 * 因为仅update()方法的form中有id属性，因此仅在update时实际执行.
 	 */
 	@ModelAttribute

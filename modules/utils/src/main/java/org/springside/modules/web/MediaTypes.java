@@ -11,7 +11,7 @@ package org.springside.modules.web;
  * Jax-RS和Spring的MediaType没有UTF-8的版本，
  * Google的MediaType必须再调用toString()函数而不是常量，不能用于Restful方法的annotation。
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class MediaTypes {
 

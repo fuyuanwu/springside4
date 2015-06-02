@@ -28,7 +28,7 @@ import org.springside.modules.test.category.Smoke;
  * 
  * 集中在Team相关接口.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class AccountWebServiceWithDynamicCreateClientFT extends BaseFunctionalTestCase {
 

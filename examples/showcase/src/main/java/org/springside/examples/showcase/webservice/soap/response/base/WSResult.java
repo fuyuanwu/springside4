@@ -12,7 +12,7 @@ import org.springside.examples.showcase.webservice.soap.WsConstants;
 /**
  * WebService返回结果基类,定义所有返回码.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @XmlType(name = "WSResult", namespace = WsConstants.NS)
 public class WSResult {

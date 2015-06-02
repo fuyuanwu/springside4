@@ -21,7 +21,7 @@ import com.google.common.collect.ImmutableList;
 /**
  * 角色.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Entity
 @Table(name = "ss_role")

@@ -22,7 +22,7 @@ import com.google.common.collect.Lists;
 /**
  * 开发团队.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Entity
 @Table(name = "ss_team")

@@ -21,7 +21,7 @@ import org.springside.modules.utils.Threads;
 /**
  * Quartz可集群Timer Job测试.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Category(UnStable.class)
 @DirtiesContext

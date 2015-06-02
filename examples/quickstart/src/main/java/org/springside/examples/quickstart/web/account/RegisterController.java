@@ -20,7 +20,7 @@ import org.springside.examples.quickstart.service.account.AccountService;
 /**
  * 用户注册的Controller.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Controller
 @RequestMapping(value = "/register")

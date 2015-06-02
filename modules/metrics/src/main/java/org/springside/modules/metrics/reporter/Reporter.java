@@ -15,7 +15,7 @@ import org.springside.modules.metrics.Timer;
 /**
  * Reporter的公共接口，被ReportScheduler定时调用。
  * 
- * @author Calvin
+ * @author fuyuanwu
  * 
  */
 public interface Reporter {

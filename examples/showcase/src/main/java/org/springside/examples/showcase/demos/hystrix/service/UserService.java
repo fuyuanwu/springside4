@@ -28,7 +28,7 @@ import com.netflix.hystrix.util.HystrixRollingNumberEvent;
 /**
  * 使用Hystrix 封装的Service。原来直接调用restTemplate改为调用Hystrix Command的封装.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Service
 public class UserService {

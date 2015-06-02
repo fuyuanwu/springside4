@@ -14,7 +14,7 @@ import org.springframework.jmx.export.annotation.ManagedResource;
 /**
  * 应用的运行情况统计bean, 通过JMX可被外部监控系统获取数据.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @ManagedResource(objectName = ApplicationStatistics.MBEAN_NAME, description = "Application Statistics Management Bean")
 public class ApplicationStatistics {

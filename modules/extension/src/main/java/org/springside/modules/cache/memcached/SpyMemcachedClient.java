@@ -22,7 +22,7 @@ import org.springframework.beans.factory.DisposableBean;
  * 
  * 未提供封装的函数可直接调用getClient()取出Spy的原版MemcachedClient来使用.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class SpyMemcachedClient implements DisposableBean {
 

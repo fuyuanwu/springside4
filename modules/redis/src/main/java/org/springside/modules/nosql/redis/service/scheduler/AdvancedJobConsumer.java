@@ -21,7 +21,7 @@ import com.google.common.collect.Lists;
  * 
  * 在高可靠模式下，任务在返回给客户端的同时，会放入lock table中，客户完成任务后必须调用ack()删除任务，否则Dispatcher会将超时未完成的任务放入队列重新执行.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class AdvancedJobConsumer {
 	public static final String DEFAULT_BATCH_POP_LUA_FILE_PATH = "classpath:/redis/batchpop.lua";

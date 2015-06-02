@@ -16,7 +16,7 @@ import org.springframework.mail.javamail.JavaMailSender;
 /**
  * 纯文本邮件服务类.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class SimpleMailService {
 	private static Logger logger = LoggerFactory.getLogger(SimpleMailService.class);

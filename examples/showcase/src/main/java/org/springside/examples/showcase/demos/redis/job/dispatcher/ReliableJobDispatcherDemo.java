@@ -19,7 +19,7 @@ import org.springside.modules.nosql.redis.service.scheduler.JobStatistics;
  * 运行JobDispatcher，每秒将Job从"job:ss:scheduled" sorted set 发布到"job:ss:ready" list.
  * 如果有任务已被领取而长期没有被执行，会从"job:ss:locked" sorted set取回并重新发布到"job:ss:ready" list.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class ReliableJobDispatcherDemo {
 	public static final int EXPECT_TPS = 5000;

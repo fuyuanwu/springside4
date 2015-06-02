@@ -25,7 +25,7 @@ import com.google.common.collect.Lists;
  * 
  * 配置见applicationContext-ehcache.xml与ehcache.xml
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @ContextConfiguration(locations = { "/cache/applicationContext-ehcache.xml" })
 public class EhcacheDemo extends SpringContextTestCase {

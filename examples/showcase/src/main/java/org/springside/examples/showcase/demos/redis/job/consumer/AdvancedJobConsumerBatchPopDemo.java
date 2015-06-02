@@ -21,7 +21,7 @@ import org.springside.modules.utils.Threads;
  * 
  * 可用系统参数-Dthread.count 改变线程数，用-Dreliable改变是否高可靠，用-Dbatchsize 改变批处理数量.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class AdvancedJobConsumerBatchPopDemo extends SimpleJobConsumerDemo {
 

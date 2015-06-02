@@ -17,7 +17,7 @@ import org.slf4j.LoggerFactory;
  * 
  * 使用Spring的MessageListenerContainer侦听消息并调用本Listener进行处理.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class AdvancedNotifyMessageListener implements MessageListener {
 

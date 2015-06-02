@@ -12,7 +12,7 @@ import org.springside.modules.test.data.RandomData;
 /**
  * Task相关实体测试数据生成.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class TaskData {
 

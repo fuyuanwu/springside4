@@ -24,7 +24,7 @@ import org.springside.modules.utils.PropertiesLoader;
  * 
  * 在整个测试期间启动一次Jetty Server, 并在每个TestCase Class执行前中重新载入默认数据.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class BaseFunctionalTestCase {
 	protected static String baseUrl;

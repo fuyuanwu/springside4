@@ -17,7 +17,7 @@ import org.springside.modules.test.benchmark.ConcurrentBenchmark;
  * 可用-Dthread.count, -Dtotal.count 重置测试规模
  * 可用-Dredis.host,-Dredis.port,-Dredis.timeout 重置连接参数
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class RedisCounterBenchmark extends ConcurrentBenchmark {
 	private static final int DEFAULT_THREAD_COUNT = 20;

@@ -21,7 +21,7 @@ import com.google.common.collect.Maps;
 /**
  * 演示SpringSide Collections3(替代Apache Collections)和Guava 的Collection 如何简化Collection操作.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class CollectionsDemo {
 

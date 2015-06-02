@@ -22,7 +22,7 @@ import com.google.common.collect.Maps;
  * 测试Jackson对Object,Map,List,数组,枚举,日期类等的持久化.
  * 更多测试见showcase中的JsonDemo.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class JsonMapperTest {
 

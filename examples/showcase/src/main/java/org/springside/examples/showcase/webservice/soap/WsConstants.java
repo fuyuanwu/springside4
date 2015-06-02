@@ -8,7 +8,7 @@ package org.springside.examples.showcase.webservice.soap;
 /**
  * WebService常量定义.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class WsConstants {
 

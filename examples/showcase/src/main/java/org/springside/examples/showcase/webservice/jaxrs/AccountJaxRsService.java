@@ -25,7 +25,7 @@ import org.springside.modules.web.MediaTypes;
 /**
  * cxf在web.xml侦听/cxf, 在applicationContext.xml里侦听/jaxrx，完整访问路径为 /cxf/jaxrs/user/1.xml
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Path("/user")
 public class AccountJaxRsService {

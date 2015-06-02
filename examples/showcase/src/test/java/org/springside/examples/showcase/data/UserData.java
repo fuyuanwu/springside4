@@ -12,7 +12,7 @@ import org.springside.modules.test.data.RandomData;
 /**
  * 用户测试数据生成.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class UserData {
 

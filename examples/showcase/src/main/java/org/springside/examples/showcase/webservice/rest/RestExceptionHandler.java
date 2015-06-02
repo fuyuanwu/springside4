@@ -24,7 +24,7 @@ import org.springside.modules.web.MediaTypes;
 /**
  * 自定义ExceptionHandler，专门处理Restful异常.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @ControllerAdvice
 public class RestExceptionHandler extends ResponseEntityExceptionHandler {

@@ -18,7 +18,7 @@ import org.springside.modules.test.category.Smoke;
 /**
  * 用户管理的功能测试.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Ignore("Ignore the GUI test first")
 public class UserManagerFT extends BaseSeleniumTestCase {

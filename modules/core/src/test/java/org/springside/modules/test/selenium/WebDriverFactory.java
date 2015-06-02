@@ -19,7 +19,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 /**
  * 创建WebDriver的工厂类.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class WebDriverFactory {
 	/**

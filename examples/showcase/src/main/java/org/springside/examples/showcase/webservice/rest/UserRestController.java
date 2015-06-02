@@ -25,7 +25,7 @@ import org.springside.modules.metrics.MetricRegistry;
 /**
  * Shiro的配置文件中对/api/secure/**进行拦截，要求authBasic认证.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @RestController
 @RequestMapping(value = { "/api/v1/user", "/api/secure/v1/user" })

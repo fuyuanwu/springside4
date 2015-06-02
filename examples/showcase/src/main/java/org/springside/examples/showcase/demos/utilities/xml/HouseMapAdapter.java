@@ -31,7 +31,7 @@ import com.google.common.collect.Maps;
  * </houses>
  * </pre>
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class HouseMapAdapter extends XmlAdapter<HouseMapAdapter.HouseMap, Map<String, String>> {
 
@@ -56,7 +56,7 @@ public class HouseMapAdapter extends XmlAdapter<HouseMapAdapter.HouseMap, Map<St
 	/**
 	 * List<HouseEntry>的Adapter类.
 	 * 
-	 * @author calvin
+	 * @author fuyuanwu
 	 */
 	@XmlType(name = "houses")
 	public static class HouseMap {

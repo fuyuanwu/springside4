@@ -42,7 +42,7 @@ import com.google.common.collect.Maps;
  * Update action : POST /task/update
  * Delete action : GET /task/delete/{id}
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 @Controller
 @RequestMapping(value = "/task")

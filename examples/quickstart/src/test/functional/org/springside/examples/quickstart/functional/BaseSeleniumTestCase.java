@@ -19,7 +19,7 @@ import org.springside.modules.test.selenium.WebDriverFactory;
  * 
  * 在BaseFunctionalTestCase的基础上，在整个测试期间仅启动一次Selenium.
  * 
- * @author calvin
+ * @author fuyuanwu
  */
 public class BaseSeleniumTestCase extends BaseFunctionalTestCase {
 
